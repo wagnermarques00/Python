@@ -4,8 +4,8 @@ Studies carried out on the DIO platform. I choose to put the codes in English du
 
 ## Studied so far:
 
-1. 
+1. Development environment and getting started with Python
 
 ## Studying at the moment:
 
-- Development environment and getting started with Python
+- Getting to know the Python programming language
