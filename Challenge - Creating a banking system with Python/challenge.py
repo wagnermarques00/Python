@@ -38,19 +38,19 @@ while True:
         elif exceded_withdraws:
             print("Operação falhou! Número máximo de saques excedido.")
         elif amount > 0:
-            balance -= amount
+             balance -= amount
             extract += f"Saque: R$ {amount:.2f}\n"
             number_witdhraws += 1
         else:
             print("Operação falhou! O valor informado é inválido.")
     elif option == "e":
-        print("\n====================EXTRATO====================")
+        print("EXTRATO".center(50, "="))
         if not extract:
             print("Não foram realizadas movimentações.")
         else:
             print(extract)
         print(f"\nSaldo: R$ {balance:.2f}")
-        print("=================================================")
+        print("".center(50, "="))
     elif option == "q":
         print(">>> Programa encerrado. <<<q")
         break
