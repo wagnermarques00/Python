@@ -9,7 +9,8 @@ Studies carried out on the DIO platform. I choose to put the codes in English du
 1. Operator types with Python
 1. Conditional and looping structures in Python
 1. Manipulating strings with Python
+1. Challenge: Creating a banking system with Python
 
 ## Studying at the moment:
 
-- Challenge: Creating a banking system with Python
+- Working with lists in Python
