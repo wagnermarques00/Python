@@ -13,7 +13,8 @@ Studies carried out on the DIO platform. I choose to put the codes in English du
 1. Working with lists in Python
 1. Understanding Tuples in Python
 1. Exploring sets in Python
+1. Learning to use dictionaries in Python
 
 ## Studying at the moment:
 
-- Learning to use dictionaries in Python
+- Mastering Python functions
