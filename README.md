@@ -12,7 +12,8 @@ Studies carried out on the DIO platform. I choose to put the codes in English du
 1. Challenge: Creating a banking system with Python
 1. Working with lists in Python
 1. Understanding Tuples in Python
+1. Exploring sets in Python
 
 ## Studying at the moment:
 
-- Exploring sets in Python
+- Learning to use dictionaries in Python
