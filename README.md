@@ -15,6 +15,7 @@ Studies carried out on the DIO platform. I choose to put the codes in English du
 1. Exploring sets in Python
 1. Learning to use dictionaries in Python
 1. Mastering Python functions
+1. Challenge: Optimizing the banking system with Python functions
 
 ## Studying at the moment:
 
